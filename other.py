@@ -15,8 +15,8 @@ logger = logging.getLogger(__name__)
 DEFAULT_CONFIG = {
     "steps": 4,
     "n": 1,
-    "height": 1024,
-    "width": 1024,
+    "height": 768,
+    "width": 768,
     "guidance": 3.5,
     "response_format": "base64",
     "negative_prompt": "",
